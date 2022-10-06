@@ -16,7 +16,7 @@ class script(object):
 
 <b>𝗢𝗪𝗡𝗘𝗥:</b>
 <b>★ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MaHi_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+    MANUELFILTER_TXT = """<b>𝗛𝗲𝗹𝗽 ◕ 𝗙𝗶𝗹𝘁𝗲𝗿𝘀</b>
 
 <b>★ Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message</b>
 
@@ -30,7 +30,7 @@ class script(object):
 <b>• /filters - <code>list all the filters of a chat</b></code>
 <b>• /del - <code>delete a specific filter in chat</b></code>
 <b>• /delall - <code>delete the whole filters in a chat (chat owner only)</b></code>"""
-    BUTTON_TXT = """Help: <b>Buttons</b>
+    BUTTON_TXT = """<b>𝗛𝗲𝗹𝗽 ◕ 𝗕𝗨𝗧𝗧𝗢𝗡𝗦</b>
 
 <b>⍟ 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂 Supports both url and alert inline buttons.</b>
 
@@ -39,19 +39,19 @@ class script(object):
 <b>2. 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂 supports buttons with any telegram media type.</b>
 <b>3. Buttons should be properly parsed as markdown format</b>
 
-<b>URL buttons:</b>
+<b>𝗨𝗥𝗟 ◕ 𝗕𝗨𝗧𝗧𝗢𝗡𝗦</b>
 <code><b>[Button Text](buttonurl:https://t.me/Ms_458)</b></code>
 
-<b>Alert buttons:</b>
+<b>𝗔𝗟𝗘𝗥𝗧 ◕ 𝗕𝗨𝗧𝗧𝗢𝗡𝗦</b>
 <code><b>[Button Text](buttonalert:This is an alert message)</b></code>"""
-    AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
+    AUTOFILTER_TXT = """<b>𝗛𝗘𝗟𝗣 ◕ 𝗔𝗨𝗧𝗢 𝗙𝗜𝗟𝗧𝗘𝗥</b>
 
 <b>𝗡𝗢𝗧𝗘:</b>
 <b>1. Make me the admin of your channel if it's private.</b>
 <b>2. make sure that your channel does not contains camrips, porn and fake files.</b>
 <b>3. Forward the last message to me with quotes.</b>
  <b>I'll add all the files in that channel to my db.</b>"""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+    CONNECTION_TXT = """<b>𝗛𝗘𝗟𝗣 ◕ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗜𝗢𝗡𝗦</b>
 
 <b>⍟ Used to connect bot to PM for managing filters</b>
 <b>⍟ it helps to avoid spamming in groups.</b>
@@ -64,7 +64,7 @@ class script(object):
 <b>• /connect  - <code>connect a particular chat to your PM</b></code>
 <b>• /disconnect  - <code>disconnect from a chat</b></code>
 <b>• /connections - <code>list all your connections</b></code>"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+    EXTRAMOD_TXT = """<b>𝗛𝗘𝗟𝗣 ◕ 𝗘𝗫𝗧𝗥𝗔 𝗠𝗢𝗗𝗨𝗟𝗘𝗦</b>
 
 <b>𝗡𝗢𝗧𝗘:</b>
 <b>these are the extra features of 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂</b>
@@ -74,7 +74,7 @@ class script(object):
 <b>• /info  - <code>get information about a user.</b></code>
 <b>• /imdb  - <code>get the film information from IMDb source.</b></code>
 <b>• /search  - <code>get the film information from various sources.</b></code>"""
-    ADMIN_TXT = """Help: <b>Admin mods</b>
+    ADMIN_TXT = """<b>𝗛𝗘𝗟𝗣 ◕ 𝗔𝗗𝗠𝗜𝗡 𝗠𝗢𝗗𝗦</b>
 
 <b>𝗡𝗢𝗧𝗘:</b>
 <b>This module only works for my admins</b>
