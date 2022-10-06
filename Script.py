@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Ms_458>𝙼𝙰𝙷𝙴𝚂𝙷.𝚂</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MaHi_458>𝙼𝙰𝙷𝙴𝚂𝙷.𝚂</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ✯ 𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
@@ -15,7 +15,7 @@ class script(object):
 - Source -   𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 
 <b>DEVS:</b>
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Ms_458>𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂</a>"""
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MaHi_458>𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -43,7 +43,7 @@ class script(object):
 <code>[Button Text](buttonurl:https://t.me/Ms_458)</code>
 
 <b>Alert buttons:</b>
-<code>**[Button Text](buttonalert:This is an alert message)</code>"""
+<code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
