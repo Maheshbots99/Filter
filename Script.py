@@ -10,17 +10,17 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂 is a open source project. 
-- Source -   𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+    SOURCE_TXT = """<b>𝗡𝗢𝗧𝗘:</b>
+★ 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂 : <a href=https://t.me/MaHi_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+★ 𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Ms_458>𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂</a>
 
 <b>DEVS:</b>
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MaHi_458>𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂</a>"""
+★ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MaHi_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
-<b>NOTE:</b>
+<b>𝗡𝗢𝗧𝗘:</b>
 1. 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
@@ -34,7 +34,7 @@ class script(object):
 
 - 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂 Supports both url and alert inline buttons.
 
-<b>NOTE:</b>
+<b>𝗡𝗢𝗧𝗘:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
 2. 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
@@ -46,7 +46,7 @@ class script(object):
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
-<b>NOTE:</b>
+<b>𝗡𝗢𝗧𝗘:</b>
 1. Make me the admin of your channel if it's private.
 2. make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
@@ -56,7 +56,7 @@ class script(object):
 - Used to connect bot to PM for managing filters
 - it helps to avoid spamming in groups.
 
-<b>NOTE:</b>
+<b>𝗡𝗢𝗧𝗘:</b>
 1. Only admins can add a connection.
 2. Send <code>/connect</code> for connecting me to ur PM
 
@@ -66,7 +66,7 @@ class script(object):
 • /connections - <code>list all your connections</code>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
-<b>NOTE:</b>
+<b>𝗡𝗢𝗧𝗘:</b>
 these are the extra features of 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂
 
 <b>Commands and Usage:</b>
@@ -76,7 +76,7 @@ these are the extra features of 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂
 • /search  - <code>get the film information from various sources.</code>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
-<b>NOTE:</b>
+<b>𝗡𝗢𝗧𝗘:</b>
 This module only works for my admins
 
 <b>Commands and Usage:</b>
