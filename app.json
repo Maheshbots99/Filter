@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Maheshbots/MaheshFilters",
-    "repository": "https://github.com/Maheshbots/MaheshFilters",
+    "website": "https://github.com/Maheshbot99/Filter",
+    "repository": "https://github.com/Maheshbot99/Filter",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
