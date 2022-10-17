@@ -182,10 +182,10 @@ async def start(client, message):
                     file_name = getattr(media, 'file_name', '')
                     f_caption = getattr(msg, 'caption', file_name)
                 try:
-                    await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else True)
+                    await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else False)
                 except FloodWait as e:
                     await asyncio.sleep(e.x)
-                    await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else True)
+                    await msg.copy(message.chat.id, caption=f_caption, protect_content=True if protect == "/pbatch" else False)
                 except Exception as e:
                     logger.exception(e)
                     continue
@@ -193,10 +193,10 @@ async def start(client, message):
                 continue
             else:
                 try:
-                    await msg.copy(message.chat.id, protect_content=True if protect == "/pbatch" else True)
+                    await msg.copy(message.chat.id, protect_content=True if protect == "/pbatch" else False)
                 except FloodWait as e:
                     await asyncio.sleep(e.x)
-                    await msg.copy(message.chat.id, protect_content=True if protect == "/pbatch" else True)
+                    await msg.copy(message.chat.id, protect_content=True if protect == "/pbatch" else False)
                 except Exception as e:
                     logger.exception(e)
                     continue
