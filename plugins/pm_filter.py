@@ -108,7 +108,7 @@ async def next_page(bot, query):
             ],
         )
     btn.insert(0, [
-        InlineKeyboardButton('🙏 𝙹𝙾𝙸𝙽 𝙼𝚈 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🙏', url='https://t.me/Ms_458'),
+        InlineKeyboardButton('🙏 𝙹𝙾𝙸𝙽 𝙼𝚈 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🙏', url='https://t.me/Cinema_Rockets'),
     ])
     try:
         await query.edit_message_reply_markup(
@@ -142,7 +142,7 @@ async def advantage_spoll_choker(bot, query):
                text=(M_NT_FND),
                reply_markup=InlineKeyboardMarkup(
                                       [[
-                                        InlineKeyboardButton('💢𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝚃𝙾 𝙰𝙳𝙼𝙸𝙽💢', url="https://t.me/Ms_458")
+                                        InlineKeyboardButton('💢𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝚃𝙾 𝙰𝙳𝙼𝙸𝙽💢', url="https://t.me/Cinema_Rockets")
                                       
                                       ]]
                 ),
@@ -420,7 +420,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕  𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🎥 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/Ms_458')
+            InlineKeyboardButton('🎥 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/Cinema_Rockets')
         ], [
             InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help'),
             InlineKeyboardButton('😊 𝙰𝙱𝙾𝚄𝚃', callback_data='about')
@@ -687,7 +687,7 @@ async def auto_filter(client, msg, spoll=False):
             [InlineKeyboardButton(text="🗓 1/1", callback_data="pages")]
         )
     btn.insert(0, [
-        InlineKeyboardButton('🙏 𝙹𝙾𝙸𝙽 𝙼𝚈 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🙏', url='https://t.me/Ms_458'),
+        InlineKeyboardButton('🙏 𝙹𝙾𝙸𝙽 𝙼𝚈 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 🙏', url='https://t.me/Cinema_Rockets'),
     ])
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
