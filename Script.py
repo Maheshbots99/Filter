@@ -5,14 +5,14 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MaHi_458>𝙼𝙰𝙷𝙴𝚂𝙷.𝚂</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-✯ 𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href=https://t.me/Ms_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>𝗡𝗢𝗧𝗘:</b>
 <b>★ 𝙼𝙰𝙷𝙴𝚂𝙷.𝚂 : <a href=https://t.me/MaHi_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-<b>★ 𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Ms_458>𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂</a>
+<b>★ 𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/Cinema_Rockets>𝙼𝚂.𝚄𝙿𝙳𝙰𝚃𝙴𝚂</a>
 
 <b>𝗢𝗪𝗡𝗘𝗥:</b>
 <b>★ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MaHi_458>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
@@ -40,7 +40,7 @@ class script(object):
 <b>3. Buttons should be properly parsed as markdown format</b>
 
 <b>𝗨𝗥𝗟 ◕ 𝗕𝗨𝗧𝗧𝗢𝗡𝗦</b>
-<code><b>[Button Text](buttonurl:https://t.me/Ms_458)</b></code>
+<code><b>[Button Text](buttonurl:https://t.me/Cinema_Rockets)</b></code>
 
 <b>𝗔𝗟𝗘𝗥𝗧 ◕ 𝗕𝗨𝗧𝗧𝗢𝗡𝗦</b>
 <code><b>[Button Text](buttonalert:This is an alert message)</b></code>"""
